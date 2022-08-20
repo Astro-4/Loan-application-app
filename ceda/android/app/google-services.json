@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "252485762648",
+    "firebase_url": "https://cedamobileapp.firebaseio.com",
+    "project_id": "cedamobileapp",
+    "storage_bucket": "cedamobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252485762648:android:ccfbee842ec2b92fef942d",
+        "android_client_info": {
+          "package_name": "com.example.ceda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252485762648-u8228g4sk97spp7fpvp61k4m8tu734nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCriyp3tWLnqddEc3lwv56tj46aTXLz05o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252485762648-u8228g4sk97spp7fpvp61k4m8tu734nj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
